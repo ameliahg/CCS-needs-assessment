@@ -1,0 +1,4 @@
+location,latitude,longitude
+gold dome,39.959337, -75.214051
+current,39.944122, -75.213027
+woodland,39.947486, -75.206472
